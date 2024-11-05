@@ -37,7 +37,7 @@ public class TestGreeter {
   
   @Test
   public void testcaseIntentionalyFailed() {
-   asserTrue(false);
+   assertTrue(false);
   }
 
     @Test
