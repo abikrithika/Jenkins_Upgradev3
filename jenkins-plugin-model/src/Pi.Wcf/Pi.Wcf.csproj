@@ -13,6 +13,7 @@
     <RootNamespace>Pi.Wcf</RootNamespace>
     <AssemblyName>Pi.Wcf</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework>
     <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <UseIISExpress>true</UseIISExpress>
