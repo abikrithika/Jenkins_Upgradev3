@@ -9,6 +9,7 @@
     <RootNamespace>Pi.Runtime.NetFx</RootNamespace>
     <AssemblyName>Pi.Runtime.NetFx</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
