@@ -13,7 +13,7 @@ pipeline {
               git version
               java -version
               mvn -version
-              source ~/.profile
+              
 
           '''
         }
